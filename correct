@@ -385,4 +385,4 @@ Sluzbuvets* addroutetolis(Sluzbuvets* arr, int& size, Sluzbuvets obj)
 	arr2[size] = obj;
 	size++;
 	return arr2;
-}}
+}
